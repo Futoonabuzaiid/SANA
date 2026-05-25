@@ -1,7 +1,6 @@
 # SANA – Saudi Air Navigation AI
 
-SANA is an AI-powered employee support platform developed during FIKRATHON in collaboration with Saudi Air Navigation Services (SANS).
-
+SANA is an AI-powered employee support platform .
 The platform unifies employee services into one intelligent system through:
 - Bilingual AI Chatbot (Arabic & English)
 - Smart Ticketing System
